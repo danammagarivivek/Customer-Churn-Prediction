@@ -216,16 +216,13 @@ This project demonstrates how Data Analytics, SQL, Machine Learning, and Power B
 
 ## Author
 
-### ANS Pranav Chaitanya
+### D.VIVEK
 
 **Data Analyst | Business Analyst**
 
 
-LinkedIn: https://www.linkedin.com/in/anspranavchaitanya
 
-
-
-Email: anspranavchaitanya@gmail.com
+Email: danammagarivivek@gmail.com
 
 ---
 
